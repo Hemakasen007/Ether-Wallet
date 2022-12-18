@@ -143,13 +143,7 @@ export default function Home() {
               </form>}
 
             
-            {/* <div
-              className="bg-white cursor-pointer flex rounded-md w-max px-10 lg:h-20 text-center justify-center items-center"
-              onClick={() => setIsOpen(true)}
-            >
-              {" "}
-              Withdraw{" "}
-            </div> */}
+            
           </div>
           {/* <div className="flex justify-around w-2/3 lg:flex-row flex-col">
             <div
